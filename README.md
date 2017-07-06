@@ -27,8 +27,9 @@ The color names are derived from several lists:
 
 ## Installation
 
-```
-npm install color-namer --save
+```bash
+npm install https://github.com/chuyik/color-namer --save
+# or yarn add https://github.com/chuyik/color-namer
 ```
 
 ## Usage
